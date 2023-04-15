@@ -8,8 +8,9 @@
 		<provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
 
 		<!-- BEGIN List Entities Here -->
-		<class>com.skilldistillery.plantdaddyapp.entities.User</class>
+		<class>com.mountainthymefarms.entities.User</class>
 		
+		<class>com.mountainthymefarms.entities.Product</class>
 
 		
 
